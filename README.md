@@ -44,7 +44,7 @@ The trained model, scaler, and feature list are stored separately as pickle file
 ## Project Structure
 
 ```text
-Credit-Card-Fraud-Detection/
+Credit-Card-Fraud-Detection-System/
 │
 ├── app22.py
 ├── MLproject.py
@@ -53,7 +53,7 @@ Credit-Card-Fraud-Detection/
 ├── fraud_features.pkl
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+└── .gitignore
 ```
 
 ## Installation and Setup
@@ -61,13 +61,13 @@ Credit-Card-Fraud-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Credit-Card-Fraud-Detection.git
+git clone https://github.com/AnshAAM/Credit-Card-Fraud-Detection-System.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Credit-Card-Fraud-Detection
+cd Credit-Card-Fraud-Detection-System
 ```
 
 ### 3. Install dependencies
@@ -123,3 +123,4 @@ The following pre-trained files are required to run the application:
 
 Computer Science Engineering Student
 
+GitHub: [AnshAAM](https://github.com/AnshAAM)
